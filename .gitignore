@@ -1,4 +1,4 @@
-cypress/videos/
+cypress\videos
 
 # Logs
 logs
