@@ -33,7 +33,7 @@ export const forgot = {
   btnForgot: "Find My Login Info",
 };
 
-describe("Para Bank Test Authentication", () => {
+describe("Para Bank", () => {
   it("Visit Para Bank Web", () => {
     cy.visit("https://parabank.parasoft.com/parabank/index.htm");
   });

@@ -32,8 +32,8 @@ export const login = {
 export const button = "input.button";
 
 //
-describe("Para Bank Test Authentication", () => {
-  it("Visit Para Bank Web", () => {
+describe("Para Bank", () => {
+  it("Visit Para Bank", () => {
     cy.visit("https://parabank.parasoft.com/parabank/index.htm");
   });
 });
